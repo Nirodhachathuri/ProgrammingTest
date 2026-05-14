@@ -1,2 +1,1 @@
-# OptimalPatrolPathAroundMachines
 # ProgrammingTest
